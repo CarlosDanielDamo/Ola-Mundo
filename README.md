@@ -17,27 +17,27 @@ Terminou a tabela
 Usando esse **readme basico** para me acostumar com o MD.
 
 ## Lista Numerada __*Pokémons*__
-1. Bulbassauro
-   1. Ivyssaur
-   2. Venussauro
-2. Squirtle
-   1. Wartottle
-   2. Blastouise
-3. Charmander
-   1. Charmeleon
-   2. Charizard
+1. :herb:Bulbassauro
+   1. :herb::herb:Ivyssaur
+   2. :herb::herb::herb:Venussauro
+2. :ocean:Squirtle
+   1. :ocean::ocean:Wartottle
+   2. :ocean::ocean::ocean:Blastouise
+3. :fire:Charmander
+   1. :fire::fire:Charmeleon
+   2. :fire::fire::fire:Charizard
 
 ## Lista Demarcada __*Digimons*__
-* Agumon
-   * Greymon
-   * Tyrannomon
-   * GeoGraymon
-* Patamon
-   * Angemon
-   * Pidmon
-   * Unimon
-* Gabumon
-   * Garurumon
+* :boy:Agumon
+   * :bearded_person:Greymon
+   * :bearded_person:Tyrannomon
+   * :bearded_person:GeoGraymon
+* :boy:Patamon
+   * :bearded_person:Angemon
+   * :bearded_person:Pidmon
+   * :bearded_person:Unimon
+* :boy:Gabumon
+   * :bearded_person:Garurumon
  
 ## Lista de afazeres
 - [x] Estudar **logica de Programação**
